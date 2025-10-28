@@ -31,6 +31,13 @@ Power BI | Excel | SQL | GitHub
 
 ---
 
+## 🖼️ Dashboard Preview  
+Here’s a quick view of my **Employee Insight Dashboard** 👇  
+
+![Employee Insight Dashboard](Dashboard_images/Screenshot%202025-10-21%20000238.png)
+
+---
+
 ## 💬 Author  
 👨‍💻 **Akshay Kumar**  
 *Aspiring Data Analyst* | Power BI | Excel | SQL | Python  
@@ -39,6 +46,8 @@ Power BI | Excel | SQL | GitHub
 ---
 
 > _“Turning raw data into meaningful insights for better HR decisions.”_
+
+
 
 
 
