@@ -51,12 +51,15 @@ You can read the full discussion and project explanation here 👇
 
 **Akshay Kumar**  
 💼 *Aspiring Data Analyst | Python | Power BI | SQL | Excel*  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) *(add your link here)*  
-📧 akshaykumar@example.com *(replace with your real email)*  
+🔗 [LinkedIn Profile](https://www.linkedin.com/) www.linkedin.com/in/
+akshay-kumar-092410383
+  
+📧 akshaykumar701781@gmail.com  
 
 ---
 
 ⭐ *If you liked this project, don’t forget to star this repo!*
+
 
 
 
