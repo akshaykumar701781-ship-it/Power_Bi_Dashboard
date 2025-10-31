@@ -31,6 +31,7 @@ Here’s a quick view of my **Employee Insight Dashboard** 👇
 
 ![Employee Insight Dashboard](Dashboard_Screenshots/Screenshot%202025-10-21%20000238.png)
 
+https://www.loom.com/share/0e8a44690c714226a0e8edf7b9107b35
 ---
 
 ## 🔗 Detailed Explanation  
@@ -59,6 +60,7 @@ akshay-kumar-092410383
 ---
 
 ⭐ *If you liked this project, don’t forget to star this repo!*
+
 
 
 
